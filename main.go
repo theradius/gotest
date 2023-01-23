@@ -2,6 +2,7 @@ package main
 
 import (
 	"github.com/theradius/gotest/interpolate"
+	"github.com/theradius/gotest/hi"
 	"fmt"
 )
 
