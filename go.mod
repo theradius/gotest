@@ -1,4 +1,4 @@
-module gotest
+module github.com/theradius/gotest
 
 go 1.19
 
